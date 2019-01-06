@@ -39,4 +39,7 @@ _site/
 .nfs*
 
 # End of https://www.gitignore.io/api/git,linux,jekyll
+<<<<<<< HEAD
 
+=======
+>>>>>>> upstream/master

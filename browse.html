@@ -1,0 +1,43 @@
+---
+layout: page
+title: Browse
+permalink: /browse/
+---
+
+<div id="archiveList" class="archive-list">
+
+  <div class="browse">
+<input placeholder="Search &hellip;" type="search" id="search" class="search">
+    <span class="sort-by">Sort by:</span>
+    <button class="sort" data-sort="title">title</button>
+    <button class="sort" data-sort="date">date</button>
+    <button class="sort" data-sort="tags">tags</button>
+  </div>
+
+  <div class="listjs">
+    {% for post in site.posts reversed %}
+    <div class="browse-list-post">
+      <a href="{{ post.url | absolute_url }}">
+        <span class="title browse-list-post-title">
+          {{ post.title }}
+        </span>
+        <span class="date browse-list-post-time"> |
+          <time>{{ post.date | date: "%Y-%m-%d" }}</time> |
+        </span>
+        <span class="tags">{{ post.tags | join: ', ' }}</span>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+
+</div>
+<!-- add list.js http://www.listjs.com/ @javve -->
+<script src="{{ "/js/list.min.js" | absolute_url }}"></script>
+<script>
+    var options = {
+        valueNames: [ 'title', 'date', 'tags' ],
+        listClass: 'listjs'
+    };
+
+    var userList = new List('archiveList', options);
+</script>
