@@ -6,7 +6,8 @@ date: 2019-01-08
 comments: true
 ---
 
-Samenvatting voor de excerpt. Er worden 20 wooren getoond.
+Samenvatting voor de excerpt. Default is dit de eerste paragraaf.
+In de excerpt voor Side Search worden 20 woorden getoond.
 
 <img src="{{ site.baseurl }}/assets/images/malakov-taart.png" alt="Beschrijving als het plaatje er niet is" style="width: 600px;"/>{: .center-image}
 
