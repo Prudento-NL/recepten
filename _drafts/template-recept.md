@@ -9,7 +9,7 @@ comments: true
 Samenvatting voor de excerpt. Default is dit de eerste paragraaf.
 In de excerpt voor Side Search worden 20 woorden getoond.
 
-<img src="{{ site.baseurl }}/assets/images/malakov-taart.png" alt="Beschrijving als het plaatje er niet is" style="width: 600px;"/>{: .center-image}
+[<img src="{{ site.baseurl }}/assets/images/malakov-taart_800.png" alt="Beschrijving van het plaatje" style="width: 600px;"/>{: .center-image}}]  
 
 <sub><sup>
 **XX personen**    
