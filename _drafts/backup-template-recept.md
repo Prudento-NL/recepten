@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Template recept"
+title: "Template recept backup"
 tags: [template, format]
 date: 2019-01-08
 ---
@@ -18,14 +18,22 @@ In de excerpt voor Side Search worden 20 woorden getoond.
 
 ## Ingrediënten
 <!-- Ingredieënten in volgorde van gebruik -->
+<!-- Kleine letters -->
 <!-- Gebruik de header van de tabel voor het eerste ingrediënt i.v.m. uitlijning -->
 <!-- Eventueel extra kolommen toevoegen als de lijst te lang wordt -->
+<!-- Extra rijen maken voor Variaties, Alternatieven, etcetera -->
 
 | 2 stuks    | appelflap   |
 |:---------- |:----------- |
 | 1 eetlepel | van dit     |
 | 2 gram     | van dat     |
 | 200 gram   | iets anders |
+
+| ***Variaties:***               |
+|:------------------------------ |
+| - andere ingredienten opsommen |
+| - xxx                          |
+| - xxx                          |
 
 ## Bereidingswijze
 1. Beschrijf de manier om het recept te bereiden
