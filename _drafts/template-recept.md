@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Template recept"
-tags: [template]
+tags: [template ,format]
 date: 2019-01-08
 comments: true
 ---

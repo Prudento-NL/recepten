@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Template recept"
-tags: [template]
+tags: [template, format]
 date: 2019-01-08
-comments: true
 ---
 
 Samenvatting voor de excerpt. Default is dit de eerste paragraaf.
