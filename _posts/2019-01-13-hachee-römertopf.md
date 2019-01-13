@@ -22,7 +22,7 @@ Hachee is een traditioneel stoofgerecht op basis van blokjes vlees. Dit recept w
 | 50 gram    | bloem                                       |
 | naar smaak | zout                                        |
 | naar smaak | peper                                       |
-| 1 klontje  | roomboter                                   |
+| 100 gram   | roomboter                                   |
 | 0,5 liter  | vleesbouillon (van een blokje)              |
 | 1 eetlepel | appelstroop                                 |
 | 3 etlepels | rode wijnazijn                              |
