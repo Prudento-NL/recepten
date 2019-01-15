@@ -23,11 +23,10 @@ In de excerpt voor Site Search worden 20 woorden getoond.
 <!-- Eventueel extra kolommen toevoegen als de lijst te lang wordt -->
 <!-- Extra rijen maken voor Variaties, Alternatieven, etcetera -->
 
-| 2 stuks    | appelflap   |
-|:---------- |:----------- |
-| 1 eetlepel | van dit     |
-| 2 gram     | van dat     |
-| 200 gram   | iets anders |
+| 1 xx | xxxx |
+|:---- |:---- |
+| 2 xx | xxxx |
+| 3 xx | xxxx | 
 
 | ***Variaties:***               |
 |:------------------------------ |
