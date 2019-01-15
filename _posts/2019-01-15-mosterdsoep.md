@@ -5,7 +5,7 @@ tags: [soep]
 date: 2019-01-15
 ---
 
-Dit is een recept voor een simpele mosterdsoep die vooraf kan worden bereid. De soep laat zich ook prima invriezen en opwarmen.  
+Dit is een recept voor een simpele en romige mosterdsoep die vooraf kan worden bereid. De soep laat zich ook prima invriezen.  
 
 <sub><sup>
 **4 personen**    
