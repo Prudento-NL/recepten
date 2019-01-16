@@ -193,41 +193,23 @@ dd {
   }
 }
 
-// Table: Chancged for recipes template
+// Table
 table {
   margin-bottom: 1rem;
-  //width: 100%;
-  //border: 1px solid $table-border-color;
-  //border-collapse: collapse;
+  width: 100%;
+  border: 1px solid $table-border-color;
+  border-collapse: collapse;
 }
 
 td, th {
-  padding: 0 .75rem 0 0;
-  //border: 1px solid $table-border-color;
+  padding: .25rem .5rem;
+  border: 1px solid $table-border-color;
 }
 
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  //background-color: $table-background-color;
+  background-color: $table-background-color;
 }
-// Original Table from framework-writings ============================
-// table {
-//   margin-bottom: 1rem;
-//   width: 100%;
-//   border: 1px solid $table-border-color;
-//   border-collapse: collapse;
-// }
-//
-// td, th {
-//   padding: .25rem .5rem;
-//   border: 1px solid $table-border-color;
-// }
-//
-// tbody tr:nth-child(odd) td,
-// tbody tr:nth-child(odd) th {
-//   background-color: $table-background-color;
-// }
-// ==================================================
 
 // Blockquote
 blockquote {
@@ -741,6 +723,8 @@ color: $base-color;
     }
   }
 }
+// Import scss with dedicated changes for recepten
+@import "recepten";
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start

@@ -1,0 +1,19 @@
+// Changes to the scss dedicated for recepten
+
+// Table
+table {
+  margin-bottom: 1rem;
+  width: auto;
+  border: 0px solid $table-border-color;
+  border-collapse: collapse;
+}
+
+td, th {
+  padding: 0 .75rem 0 0;
+  border: 0px solid $table-border-color;
+}
+
+tbody tr:nth-child(odd) td,
+tbody tr:nth-child(odd) th {
+  background-color: transparent;
+}
