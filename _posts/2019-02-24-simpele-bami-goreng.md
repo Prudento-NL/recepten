@@ -23,7 +23,7 @@ Voorheen gebruikte ik een boemboe van Sum & Sam voor het maken van bami. Dit rec
 | 1 stuks       | olijfolie          |
 | 250 gram      | mie                |
 | 1 theelepel   | kurkuma            |
-| 0.5 theelepel | komijnzaad gemalen |
+| 0,5 theelepel | komijnzaad gemalen |
 | 1 theelepel   | gemberpoeder       |
 | 1 theelepel   | koriander gemalen  |
 | 1 theelepel   | sambal oelek       |
