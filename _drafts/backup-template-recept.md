@@ -6,6 +6,7 @@ date: 2019-01-08
 ---
 
 Samenvatting voor de excerpt. Default is dit de eerste paragraaf.
+In de 'browse' wordt de tekst getoond tot aan de eerste echte line break (space - space + enter).
 In de excerpt voor Site Search worden 20 woorden getoond.
 
 <img src="{{ site.baseurl }}/assets/images/malakov-taart_800.jpg" alt="Beschrijving van het plaatje" style="width: 600px;"/>{: .center-image}
@@ -13,7 +14,7 @@ In de excerpt voor Site Search worden 20 woorden getoond.
 <sub><sup>
 **XX personen**    
 **Bereidingstijden:** Totaal: xx; Voorbereiding: xx; Kooktijd: xx; Oventijd: xx; Wachttijd: xx  
-**Hulpmiddelen:**
+**Hulpmiddelen:** xx
 </sup></sub>
 
 ## Ingrediënten
@@ -26,7 +27,7 @@ In de excerpt voor Site Search worden 20 woorden getoond.
 | 1 xx | xxxx |
 |:---- |:---- |
 | 2 xx | xxxx |
-| 3 xx | xxxx | 
+| 3 xx | xxxx |
 
 | ***Variaties:***               |
 |:------------------------------ |

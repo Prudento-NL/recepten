@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mosterdsoep"
-tags: [soep]
+tags: [soep, vegetarisch]
 date: 2019-01-15
 ---
 
