@@ -6,7 +6,7 @@ date: 2019-01-08
 ---
 
 Samenvatting voor de excerpt. Default is dit de eerste paragraaf.
-In de 'browse' wordt de tekst getoond tot aan de eerste echte line break (space - space + enter).
+In de Blog wordt de tekst getoond tot aan de eerste echte line break (space - space + enter).
 In de excerpt voor Site Search worden 20 woorden getoond.
 
 [<img src="{{ site.baseurl }}/assets/images/malakov-taart_800.jpg" alt="Beschrijving van het plaatje" style="width: 600px;"/>{: .center-image}}]  
