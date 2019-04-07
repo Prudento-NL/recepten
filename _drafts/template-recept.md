@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Template recept"
-tags: [template ,format]
+tags: [template, format]
 date: 2019-01-08
 ---
 
@@ -37,8 +37,9 @@ In de excerpt voor Site Search worden 20 woorden getoond.
 | - xxx                          |
 
 ## Bereidingswijze
-1. Beschrijf de manier om het recept te bereiden
-2. Ingrediënten **bold** weergeven
+1. Beschrijf de manier om het recept te bereiden.
+2. Ingrediënten **bold** weergeven.
+3. Voor °-teken: hold down Ctrl+Shift and type u+00b0.
 
 -----------------------------------------------------------------------
 ### Extra informatie  
