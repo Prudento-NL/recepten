@@ -4,6 +4,7 @@ title: "Pindasaus"
 tags: [saus]
 date: 2019-07-22
 ---
+
 Pindasaus is makkelijk zelf te maken en smaakt vaak beter dan de pinda- of satésaus uit pakjes. Deze variatie met melk is lekker romig van smaak.  
 
 <sub><sup>
@@ -11,7 +12,8 @@ Pindasaus is makkelijk zelf te maken en smaakt vaak beter dan de pinda- of saté
 **Bereidingstijden:** Totaal: 10 minuten
 </sup></sub>
 
-## Ingrediënten
+## Ingrediënten  
+
 | 200 gram     | melk                    |
 |:------------ |:----------------------- |
 | 350 gram     | pindakaas (met nootjes) |
