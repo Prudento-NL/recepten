@@ -9,7 +9,8 @@ Pindasaus is makkelijk zelf te maken en smaakt vaak beter dan de pinda- of saté
 
 <sub><sup>
 **6 personen**    
-**Bereidingstijden:** Totaal: 10 minuten
+**Bereidingstijden:** Totaal: 10 minuten  
+**Hulpmiddelen:** knoflookpers, handcitruspers
 </sup></sub>
 
 ## Ingrediënten  
@@ -17,12 +18,12 @@ Pindasaus is makkelijk zelf te maken en smaakt vaak beter dan de pinda- of saté
 | 200 gram     | melk                    |
 |:------------ |:----------------------- |
 | 350 gram     | pindakaas (met nootjes) |
-| 2 tenen      | knoflook uit de pers    |
+| 2 tenen      | knoflook                |
 | 4 theelepels | bruine basterdsuiker    |
-| 1 theelepels | sambal oelek            |
+| 1 theelepel  | sambal oelek            |
 | 2 eetlepel   | ketjap manis            |
 | 2 eetlepels  | kokosmelk               |
-| 1/2 stuks    | sap van citroen         |
+| 1/2 stuks    | citroen                 |
 
 
 | ***Alternatief:***                                                  |
@@ -33,10 +34,14 @@ Pindasaus is makkelijk zelf te maken en smaakt vaak beter dan de pinda- of saté
 ## Bereidingswijze
 1. Doe de **melk** en de **pindakaas** in een pannetje
 2. Breng onder goed roeren langzaam to bijna aan de kook
-3. Neem het pan van het vuur en voeg de rest van de ingrediënten toe
+3. Neem het pan van het vuur
+4. Pers de **knoflook** in de pan
+5. Pers het sap van de **citroen** boven de pan uit
+6. Voeg de rest van de ingrediënten toe
+7. Goed doorroeren
 4. Zet de pan nog enkele minuten op een uiterst laag vuur
-5. Roer goed door zodat alle ingrediënten kunnen mengen
-6. Als de saus te dikk is, voeg dan nog wat **melk** toe
+5. Roer tijdens het verwarmen goed door zodat alle ingrediënten kunnen mengen
+6. Als de saus te dik is, voeg dan nog wat **melk** toe
 
 -----------------------------------------------------------------------
 ### Extra informatie  
