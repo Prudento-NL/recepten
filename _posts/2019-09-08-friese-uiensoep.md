@@ -29,7 +29,7 @@ Deze Friese uiensoep is een simpel te maken en lekkere maaltijdsoep. De soep wor
 
 ## Bereidingswijze
 1. Smelt de **boter** in de soeppan
-2. Fruit de grofgesnipperde **uien** in 6-8 minuten lichtbruin (karameliseren)
+2. Fruit de grofgesnipperde **uien** in 6-8 minuten lichtbruin (karamelliseren)
 3. Roer de **bloem** erdoor en fruit ongeveer 1 minuut mee
 4. Schenk al roerend de **runderbouillon** erbij
 5. Breng de soep al roerend aan de kook en laat de soep 10 minuten zachtjes koken
