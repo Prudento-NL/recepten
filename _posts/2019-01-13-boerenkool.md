@@ -27,7 +27,7 @@ Andere ingrediënten kan je zelf altijd toevoegen.
 *Bij de boerenkool hoort jus en/of mosterd. Het maken van de jus is niet in dit recept beschreven.*
 
 ## Bereidingswijze
-1. Doe de **boerenkool** met het **zout** in een pan met een beetje veel water (de boerenkool moet niet onder staan)
+1. Doe de **boerenkool** met het **zout** in een pan met een beetje water (de boerenkool moet niet onder staan)
 2. 10 minuten koken
 3. Schil ondertussen de **aardappels** en snijdt in stukken
 4. Na de kooktijd de boerenkool afgieten; het kookvocht opvangen
