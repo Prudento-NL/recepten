@@ -46,6 +46,6 @@ Andere ingrediënten kan je zelf altijd toevoegen.
 -----------------------------------------------------------------------
 ### Extra informatie
 - Eventueel de boerenkool op smaak brengen met extra zout, peper of nootmuskaat.
-- De hoeveelheid boerenkool is ruim genoeg voor twee personen; wat overblijt kan je lekker opbakken en op brood eten.
+- De hoeveelheid boerenkool is ruim genoeg voor twee personen; wat overblijft kan je lekker opbakken en op brood eten.
 - De boerenkool wordt meestal verkocht in zakken van 300 gram; je komt ook andere hoeveelheden tegen.
 - Er zijn meerdere recepten en bereidingswijzen van boerenkool te vinden op internet; dit is slechts één van de variaties.
