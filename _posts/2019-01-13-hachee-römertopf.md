@@ -7,7 +7,7 @@ date: 2019-01-13
 
 Hachee is een traditioneel stoofgerecht op basis van blokjes vlees. Dit recept wordt bereid met de römertopf in de oven.
 
-<sub><sup>  
+<sub><sup>
 **Bereidingstijden:** Totaal: 3 uur; Voorbereiding: 10 minuten; Baktijd: 15 minuten; Oventijd: 2,5 uur  
 **Hulpmiddelen:** römertopf; oven; plastic zak
 </sup></sub>

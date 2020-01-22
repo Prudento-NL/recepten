@@ -7,7 +7,7 @@ date: 2020-01-21
 
 Deze ragout is eenvoudig te maken en past in het vegatarische dieet. Zelfgemaakte ragout is altijd lekkerder dan de ragout uit de supermarkt.
 
-<sub><sup>  
+<sub><sup>
 **Bereidingstijden:** Totaal: 25 minuten; Voorbereiding: 10 minuten; Kooktijd: 15 minuten  
 **Hulpmiddelen:** oven, koekenpan, steelpan, garde
 </sup></sub>
@@ -27,7 +27,7 @@ Deze ragout is eenvoudig te maken en past in het vegatarische dieet. Zelfgemaakt
 | 1 snuf       | peper                |
 | 2 takjes     | tijm                 |
 
-| _Alternatieven:_                                                | 
+| _Alternatieven:_                                                |
 |:--------------------------------------------------------------- |
 | - gebruik 1-2 theelepel gedroogde tijm in plaats van verse tijm |
 

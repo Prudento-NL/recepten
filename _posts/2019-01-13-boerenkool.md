@@ -22,7 +22,7 @@ Andere ingrediënten kan je zelf altijd toevoegen.
 | 100 mililiter | melk                      |
 | 1 klontje     | roomboter                 |
 
-*Bij de boerenkool hoort jus en/of mosterd. Het maken van de jus is niet in dit recept beschreven.*
+_Bij de boerenkool hoort jus en/of mosterd. Het maken van de jus is niet in dit recept beschreven._
 
 ## Bereidingswijze
 1. Doe de **boerenkool** met het **zout** in een pan met een beetje water (de boerenkool moet niet onder staan)
