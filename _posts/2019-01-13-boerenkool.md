@@ -9,15 +9,13 @@ Standaard recept voor boerenkool vooral bedoeld om de verhoudingen van de ingred
 Andere ingrediënten kan je zelf altijd toevoegen.
 
 <sub><sup>
-**2 personen**  
 **Bereidingstijden:** 45 minuten  
 **Hulpmiddelen:** Grote pan; stamper
 </sup></sub>
 
-## Ingrediënten
-
-| 300 gram      | boerenkool (fijngesneden) |
+| Ingrediënten  | 2 personen                |
 |:------------- |:------------------------- |
+| 300 gram      | boerenkool (fijngesneden) |
 | 600 gram      | aardappels                |
 | 1 theelepel   | zout                      |
 | 1 stuks       | rookworst                 |

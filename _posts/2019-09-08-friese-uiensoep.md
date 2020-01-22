@@ -8,19 +8,17 @@ date: 2019-09-08
 Deze Friese uiensoep is een simpel te maken en lekkere maaltijdsoep. De soep wordt ook wel sipelsop (wat Fries is voor uiensoep) genoemd.
 
 <sub><sup>
-**4 personen**    
 **Bereidingstijden:** Totaal: 30 minuten; Voorbereiding: 5 minuten; Kooktijd: 25 minuten  
 **Hulpmiddelen:** soeppan
 </sup></sub>
 
-## Ingrediënten
-
-| 50 gram    | boter                                |
-|:---------- |:------------------------------------ |
-| 500 gram   | uien (grof gesnipperd)               |
-| 50 gram    | bloem                                |
-| 1,25 liter | runderbouillon (van bouillonblokjes) |
-| 4 stuks    | eieren (hardgekookt)                 |
+| Ingrediënten | 4 personen                           |
+|:------------ |:------------------------------------ |
+| 50 gram      | boter                                |
+| 500 gram     | uien (grof gesnipperd)               |
+| 50 gram      | bloem                                |
+| 1,25 liter   | runderbouillon (van bouillonblokjes) |
+| 4 stuks      | eieren (hardgekookt)                 |
 
 ## Voorbereiding
 1. Snipper de uien grof

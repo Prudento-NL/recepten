@@ -8,15 +8,13 @@ date: 2019-07-22
 Pindasaus is makkelijk zelf te maken en smaakt vaak beter dan de pinda- of satésaus uit pakjes. Deze variatie met melk is lekker romig van smaak.  
 
 <sub><sup>
-**6 personen**    
 **Bereidingstijden:** Totaal: 10 minuten  
 **Hulpmiddelen:** knoflookpers, handcitruspers
 </sup></sub>
 
-## Ingrediënten  
-
-| 200 gram     | melk                    |
+| Ingrediënten |                         |
 |:------------ |:----------------------- |
+| 200 gram     | melk                    |
 | 350 gram     | pindakaas (met nootjes) |
 | 2 tenen      | knoflook                |
 | 4 theelepels | bruine basterdsuiker    |
@@ -26,7 +24,7 @@ Pindasaus is makkelijk zelf te maken en smaakt vaak beter dan de pinda- of saté
 | 1/2 stuks    | citroen                 |
 
 
-| ***Alternatief:***                                                  |
+| _Alternatief:_                                                      | 
 |:------------------------------------------------------------------- |
 | - Gebruik 30 gram citroensap uit een flesje i.p.v. verse citroensap |
 

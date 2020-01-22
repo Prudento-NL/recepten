@@ -10,15 +10,13 @@ Een bami goreng die op een eenvoudige wijze met een eigen mengsel van kruiden ui
 Voorheen gebruikte ik een boemboe van Sum & Sam voor het maken van bami. Dit recept is een prima alternatief voor het gebruik van de boemboe zonder dat je allerlei stoffen binnen krijgt waarvan je niet precies weet wat het is.
 
 <sub><sup>
-**2 personen**    
 **Bereidingstijden:** Totaal: 30 minuten; Voorbereiding: 10 minuten; Kooktijd: 20 minuten  
 **Hulpmiddelen:** wok
 </sup></sub>
 
-## Ingrediënten
-
-| 1 stuks       | ui                 |
+| Ingrediënten  | 2 personen         |
 |:------------- |:------------------ |
+| 1 stuks       | ui                 |
 | 1 tenen       | knoflook           |
 | 1 stuks       | olijfolie          |
 | 250 gram      | mie                |
@@ -30,7 +28,7 @@ Voorheen gebruikte ik een boemboe van Sum & Sam voor het maken van bami. Dit rec
 | 400 gram      | wokgroente         |
 | 1 eetlepel    | ketjap manis       |
 
-| ***Eventueel toevoegen:***                       |
+| _Eventueel toevoegen:_                           | 
 |:------------------------------------------------ |
 | - 150 gram kip of varkensvlees in kleine blokjes |
 | - 150 gram vleesvervanger                        |

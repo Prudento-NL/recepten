@@ -10,15 +10,13 @@ Knoflooksaus kan je heel simpel zelf maken. Weinig moeite, maar veel lekkerder d
 **Bereidingstijden:** Totaal: 5 minuten  
 **Hulpmiddelen:** knoflookpers
 
-## Ingrediënten
+| Ingrediënten |                 |
+|:------------ |:--------------- |
+| 150 gram     | griekse yoghurt |
+| 100 gram     | fritessaus      |
+| 4 tenen      | knoflook        |
 
-| 150 gram | griekse yoghurt |
-|:-------- |:--------------- |
-| 100 gram | fritessaus      |
-| 4 tenen  | knoflook        |
-
-
-| ***Alternatieven:***                                                        |
+| _Alternatieven:_                                                        |
 |:--------------------------------------------------------------------------- |
 | - In plaats van griekse yoghurt kan elke andere yoghurt kan gebruikt worden |
 | - In plaats van fritessaus kan ook mayonaise of mayolijn gebruikt worden    |
