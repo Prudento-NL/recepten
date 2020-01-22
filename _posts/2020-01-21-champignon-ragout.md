@@ -27,7 +27,7 @@ Deze ragout is eenvoudig te maken en past in het vegatarische dieet. Zelfgemaakt
 | 1 snuf       | peper                |
 | 2 takjes     | tijm                 |
 
-| ***Alternatieven:***                                            |
+| _Alternatieven:_                                                | 
 |:--------------------------------------------------------------- |
 | - gebruik 1-2 theelepel gedroogde tijm in plaats van verse tijm |
 
