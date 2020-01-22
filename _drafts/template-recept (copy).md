@@ -12,7 +12,7 @@ TODO:
 - Beschrijf als de excerpt opgenomen wordt in de frontmatter
 - Check bij het gebruik van de nieuwe theme voor Jekyll of het aantal woorden en/of alinea nog steeds correct is.
 
-[<img src="{{ site.baseurl }}/assets/images/malakov-taart_800.jpg" alt="Beschrijving van het plaatje" style="width: 600px;"/>{: .center-image}}]  
+[<img src="{{ site.baseurl }}/assets/images/malakov-taart_800.jpg" alt="Beschrijving van het plaatje" style="width: 600px;"/>{: .center-image}}]
 
 <sub><sup>  
 **Bereidingstijden:** Totaal: xx; Voorbereiding: xx; Kooktijd: xx; Oventijd: xx; Wachttijd: xx  
@@ -31,7 +31,7 @@ TODO:
 | 2 xx         | xxxx       |
 
 
-| _Variaties:_                   | 
+| _Variaties:_                   |
 |:------------------------------ |
 | - andere ingredienten opsommen |
 | - xxx                          |

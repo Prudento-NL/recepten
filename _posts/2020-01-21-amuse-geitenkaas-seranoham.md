@@ -5,7 +5,7 @@ tags: [amuse, tussendoor, borrelhapje]
 date: 2020-01-21
 ---
 
-De pakketjes zijn makkelijk te maken. De voorbereiding en de bereiding kosten weinig tijd.Leuk om te serveren als amuse of tijdens de borrel. Onverwacht lekker.  
+De pakketjes zijn makkelijk te maken. De voorbereiding en de bereiding kosten weinig tijd.Leuk om te serveren als amuse of tijdens de borrel. Onverwacht lekker.
 
 <sub><sup>  
 **Bereidingstijden:** Totaal: 15 minuten; Voorbereiding: 10 minuten; Kooktijd: 5 minuten  

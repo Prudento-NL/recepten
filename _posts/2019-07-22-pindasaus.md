@@ -5,7 +5,7 @@ tags: [saus]
 date: 2019-07-22
 ---
 
-Pindasaus is makkelijk zelf te maken en smaakt vaak beter dan de pinda- of satésaus uit pakjes. Deze variatie met melk is lekker romig van smaak.  
+Pindasaus is makkelijk zelf te maken en smaakt vaak beter dan de pinda- of satésaus uit pakjes. Deze variatie met melk is lekker romig van smaak.
 
 <sub><sup>
 **Bereidingstijden:** Totaal: 10 minuten  
@@ -24,7 +24,7 @@ Pindasaus is makkelijk zelf te maken en smaakt vaak beter dan de pinda- of saté
 | 1/2 stuks    | citroen                 |
 
 
-| _Alternatief:_                                                      | 
+| _Alternatief:_                                                      |
 |:------------------------------------------------------------------- |
 | - Gebruik 30 gram citroensap uit een flesje i.p.v. verse citroensap |
 
