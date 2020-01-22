@@ -16,7 +16,7 @@ Knoflooksaus kan je heel simpel zelf maken. Weinig moeite, maar veel lekkerder d
 | 100 gram     | fritessaus      |
 | 4 tenen      | knoflook        |
 
-| _Alternatieven:_                                                        |
+| _Alternatieven:_                                                            | 
 |:--------------------------------------------------------------------------- |
 | - In plaats van griekse yoghurt kan elke andere yoghurt kan gebruikt worden |
 | - In plaats van fritessaus kan ook mayonaise of mayolijn gebruikt worden    |
