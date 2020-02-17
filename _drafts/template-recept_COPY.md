@@ -14,7 +14,7 @@ TODO:
 
 [<img src="{{ site.baseurl }}/assets/images/malakov-taart_800.jpg" alt="Beschrijving van het plaatje" style="width: 600px;"/>{: .center-image}}]
 
-<sub><sup>  
+<sub><sup>
 **Bereidingstijden:** Totaal: xx; Voorbereiding: xx; Kooktijd: xx; Oventijd: xx; Wachttijd: xx  
 **Hulpmiddelen:** xx
 </sup></sub>
