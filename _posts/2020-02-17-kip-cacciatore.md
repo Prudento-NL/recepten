@@ -2,10 +2,10 @@
 layout: post
 title: "Kip Cacciatore met spaghetti"
 tags: [gevogelte, pasta]
-date: 2019-01-08
+date: 2020-02-17
 ---
 
-De letterlijke betekenis van 'cacciatore' is 'jager'. Kip cacciatore staat dus voor kip bereid op de wijze waarop Italiaanse jagers dit vroeger deden. Deze variant is een lichter en sneller te maken dan de oorspronkelijk recepten.
+De letterlijke betekenis van 'cacciatore' is 'jager'. Kip cacciatore staat dus voor kip bereid op de wijze waarop Italiaanse jagers dit vroeger deden en nog steeds doen. Deze variant is niet zo zwaar en sneller te maken dan de oorspronkelijk recepten.
 
 <sub><sup>
 **Bereidingstijden:** Totaal: 30 minuten; Voorbereiding: 10 minuten; Kooktijd: 20 minuten  
