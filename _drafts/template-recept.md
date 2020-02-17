@@ -2,7 +2,7 @@
 layout: post
 title: "Template recept"
 tags: [template, format]
-date: 2019-01-08
+date: 2020-02-17
 ---
 
 Samenvatting voor de excerpt. Default is dit de eerste paragraaf.
