@@ -52,12 +52,12 @@ De letterlijke betekenis van 'cacciatore' is 'jager'. Kip cacciatore staat dus v
 8. Doe de stukjes **kipfilet** terug in de pan
 9. Roer de **kippenbouillon** en de **basilicum** er door
 10. Laat het geheel zachtjes pruttelen met de deksel op de pan
-11. Roer regelmatig door en controleer of het mengsel niett te droog wordt
+11. Roer regelmatig door en controleer of het mengsel niet te droog wordt
 12. Kook ondertussen de **spaghetti** volgens de aanwijzing op de verpakking
 13. Na 10 - 15 minuten is het kipmengsel klaar
 14. Voeg eventueel zout en peper toe
 15. Als het mengsel te vochtig is, laat het dan nog even inkoken zonder de deksel op de pan
-16. Doe de **spaghetti** en het kipmengsel op een bord en stroooi de **geraspte kaas** er vover heen
+16. Doe de **spaghetti** en het kipmengsel op een bord en strooi de **geraspte kaas** er over heen
 
 -----------------------------------------------------------------------
 ### Extra informatie  
