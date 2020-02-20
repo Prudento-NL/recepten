@@ -39,7 +39,7 @@ Dit is een simpel en lekker recept voor aardappelsoep. Het recept is ruim voldoe
 1. Verhit de **roomboter** in een pan
 2. Fruit de kleingesneden **ui** tot die glazig wordt
 3. Roer de **paprikapoeder** er door
-4. Voeg de blokjes **aardappel** en de **groentebouillon** toe
+4. Voeg de **groentebouillon** en de blokjes **aardappel** toe
 5. Goed doorroeren
 6. Breng het geheel aan de kook
 7. Draai de hittebron laag, leg een deksel op de pan
