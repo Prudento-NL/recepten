@@ -9,7 +9,7 @@ Dit is een simpel en lekker recept voor aardappelsoep. Het recept is ruim voldoe
 
 <sub><sup>
 **Bereidingstijden:** Totaal: 50 minuten; Voorbereiding: 15 minuten; Kooktijd: 35 minuten  
-**Hulpmiddelen:** pan met deksel, eventueel een (staaf)mixer
+**Hulpmiddelen:** pan met deksel, (staaf)mixer
 </sup></sub>
 
 | Ingrediënten   | 2 personen                  |
@@ -46,10 +46,11 @@ Dit is een simpel en lekker recept voor aardappelsoep. Het recept is ruim voldoe
 8. Laat de soep 15 minuten zachtjes koken
 9. Voeg de **melk** en de **koffieroom** toe
 10. Laat de soep onder af en toe doorroeren nog eens 15 minuten doorkoken tot de blokjes **aardappel** uiteen vallen
-11. Roer de **geraspte belegen kaas** door de soep
-12. Maak alles op smaak met wat **zout** en **peper**
+11. Neem de pan van de hittebron
+12. eventueel de soep gladder nmaken met een (staaf)mixer
+13. roer de **geraspte belegen kaas** door de soep
+14. maak alles op smaak met wat **zout** en **peper**
 
 -----------------------------------------------------------------------
 ### Extra informatie  
 - Als de soep te dik wordt voeg dan nog wat water of melk toe
-- Als de blokjes aardappel niet volledig uiteenvallen of te grof zijn, kan je de soep met een (staaf)mixer pureren
