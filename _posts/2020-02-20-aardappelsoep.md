@@ -47,7 +47,7 @@ Dit is een simpel en lekker recept voor aardappelsoep. Het recept is ruim voldoe
 9. Voeg de **melk** en de **koffieroom** toe
 10. Laat de soep onder af en toe doorroeren nog eens 15 minuten doorkoken tot de blokjes **aardappel** uiteen vallen
 11. Neem de pan van de hittebron
-12. Eventueel de soep gladder nmaken met een (staaf)mixer
+12. Eventueel de soep gladder maken met een (staaf)mixer
 13. Roer de **geraspte belegen kaas** door de soep
 14. Maak alles op smaak met wat **zout** en **peper**
 
