@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aardappelsoep"
-tags: [soep]
+tags: [soep, aardappels]
 date: 2020-02-20
 ---
 
