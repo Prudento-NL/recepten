@@ -24,23 +24,21 @@ layout: default
   <div class="entry">
     {{ content }}
   </div>
- <!-- Previous/next page: Er is iets vreemds met de previous/next page.
-      Previous en next zijn omgedraaid.
-      Quick fix: Linken naar previous en next verwisseld -->
+
   <div class="pagination">
 
     {% if page.previous.url %}
     
       <span class="prev" >
-          <a href="{{ site.url }}{{ site.baseurl }}{{ page.next.url }}">
-            &#xE000; {{ page.next.title }}
+          <a href="{{ site.url }}{{ site.baseurl }}{{ page.previous.url }}">
+            &#xE000; {{ page.previous.title }}
           </a>
       </span>
     {% endif %}
     {% if page.next.url %}
       <span class="next" >
-          <a href="{{ site.url }}{{ site.baseurl }}{{ page.previous.url }}">
-            {{ page.previous.title }} &#xE001;
+          <a href="{{ site.url }}{{ site.baseurl }}{{ page.next.url }}">
+            {{ page.next.title }} &#xE001;
           </a>
       </span>
     {% endif %}
